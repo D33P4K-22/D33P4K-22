@@ -28,6 +28,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D33P4K-22&show_icons=true&theme=dark" alt="Deepak's GitHub Stats" />
-</p>
+
